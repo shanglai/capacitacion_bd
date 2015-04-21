@@ -1,0 +1,10 @@
+Bajar el dataset de Hits Informativos del Gobierno de la Ciudad de Méx-
+ico en la página de Datos Abiertos: http://datosabiertos.df.gob.mx/
+sigdata/index.php/Publicacion/busquedaxtema/4
+1. Revisar el archivo. ¿Son únicamente caracteres ASCII?
+2. Generar un archivo Hits_ultimos_6_meses con los datos de los últi-
+mos seis meses, quitando los caracteres raros
+3. ¿Cuántos programas distintos recibieron hits en ese periodo?
+4. ¿Hay forma de obtener el programa con más hits (suma de todos los
+días)?
+5. ¿Cómo puedo generar un archivo por cada año, con extensión .csv?
